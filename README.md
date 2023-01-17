@@ -76,4 +76,4 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
 ![Screenshot (728)](https://user-images.githubusercontent.com/115686359/212798442-e081a8da-adc8-48bb-84d8-ba43574c7df0.png)
 
 
-## Terima Kasih :)
+## Selesai:)
